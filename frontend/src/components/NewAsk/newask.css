@@ -1,0 +1,7 @@
+.newask-container{
+  max-width: 500px; 
+}
+
+.newask-container input, textarea{
+  margin: 20px 0;
+}
